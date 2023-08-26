@@ -18,7 +18,7 @@
 ![Mobile App Development](https://img.shields.io/badge/Mobile_App_Development-%2300ADD8.svg?style=for-the-badge)
 ![SQLite](https://img.shields.io/badge/SQLite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-%23FFCA28.svg?style=for-the-badge&logo=firebase&logoColor=black)
-![LİBGDX](https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/LibGDX_logo.svg/2560px-LibGDX_logo.svg.png)
+![LİBGDX](https://img.shields.io/badge/libGDX-%2300ADD8.svg?style=for-the-badge)
 
 ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) 
