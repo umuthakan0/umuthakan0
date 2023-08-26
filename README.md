@@ -7,7 +7,7 @@
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/umut-hakan-demir-b7812022b/) 
-![Twitter Follow](https://img.shields.io/twitter/follow/umut_hakan_D?style=social)
+![Twitter Follow]([https://img.shields.io/twitter/follow/umut_hakan_D?style=social](https://twitter.com/umut_hakan_D))
 
 # 💻 Tech Stack:
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) 
