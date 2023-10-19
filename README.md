@@ -2,7 +2,7 @@
 
 # 💫 About Me:
 - Software Developer.
-🌱 I’m working .net ,java(Mobile app.)
+🌱 I’m working .net ,java-kotlin(Mobile app.)
 
 
 ## 🌐 Socials:
