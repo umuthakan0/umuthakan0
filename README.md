@@ -18,7 +18,9 @@
 ![Mobile App Development](https://img.shields.io/badge/Mobile_App_Development-%2300ADD8.svg?style=for-the-badge)
 ![SQLite](https://img.shields.io/badge/SQLite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-%23FFCA28.svg?style=for-the-badge&logo=firebase&logoColor=black)
-![LİBGDX](https://img.shields.io/badge/libGDX-%2300ADD8.svg?style=for-the-badge)
+![Retrofit](https://img.shields.io/badge/Retrofit-2.9.0-brightgreen)
+![OkHttp](http://img.shields.io/badge/OkHttp-4.9.0-brightgreen)
+![Jsoup](http://img.shields.io/badge/Jsoup-1.15.3-brightgreen)
 
 
 ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) 
