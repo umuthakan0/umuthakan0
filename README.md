@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @umuthakandemir
 
 # 💫 About Me:
-- Software Developer.
-🌱 I’m working .net ,java-kotlin(Mobile app.)
+- Software Developer & Cyber Security
+🌱 I’m working java-kotlin(Mobile app.), Python, C#
 
 
 ## 🌐 Socials:
